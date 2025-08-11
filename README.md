@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Science student<br>Currently learning about Web Dev and Cybersecurity<br>I'm interested in Data Science, Artificial Intelligence and Cybersecurity<br>
 
 
